@@ -1,0 +1,220 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PATIENTINFORMATION
+</name>
+</assembly>
+<members>
+<member name="P:PATIENT_INFORMATION.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:PATIENT_INFORMATION.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:PATIENT_INFORMATION.My.Resources.Resources._10506738_10150004552801856_220367501106153455_o">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENT_INFORMATION.My.Resources.Resources._26733436_543181366062477_3439808344077873153_n">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENT_INFORMATION.My.Resources.Resources._36eab2d8b9ad1c8f5788e8103c700b78">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENT_INFORMATION.My.Resources.Resources._4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENT_INFORMATION.My.Resources.Resources.add_btn_hi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENT_INFORMATION.My.Resources.Resources.BTNOK">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENT_INFORMATION.My.Resources.Resources.doctor">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENT_INFORMATION.My.Resources.Resources.doctor1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENT_INFORMATION.My.Resources.Resources.gnome_application_exit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENT_INFORMATION.My.Resources.Resources.icons8_close_sign_filled_50">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENT_INFORMATION.My.Resources.Resources.icons8_forgot_password_filled_50">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENT_INFORMATION.My.Resources.Resources.icons8_google_web_search_filled_50">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENT_INFORMATION.My.Resources.Resources.icons8_medical_doctor_50">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENT_INFORMATION.My.Resources.Resources.icons8_medical_doctor_filled_50">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENT_INFORMATION.My.Resources.Resources.icons8_name_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENT_INFORMATION.My.Resources.Resources.icons8_print_48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENT_INFORMATION.My.Resources.Resources.loadingbutton_orig">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENT_INFORMATION.My.Resources.Resources.loadmatch">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENT_INFORMATION.My.Resources.Resources.loadna">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENT_INFORMATION.My.Resources.Resources.logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENT_INFORMATION.My.Resources.Resources.OKOK">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENT_INFORMATION.My.Resources.Resources.OKOK1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENT_INFORMATION.My.Resources.Resources.photo_camera">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENT_INFORMATION.My.Resources.Resources.print">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENT_INFORMATION.My.Resources.Resources.RE">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENT_INFORMATION.My.Resources.Resources.transparent_gifs_progress_5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENT_INFORMATION.My.Resources.Resources.user_image_with_black_background">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENT_INFORMATION.My.Resources.Resources.user_image_with_black_background1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:PATIENT_INFORMATION.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:PATIENT_INFORMATION.clinic_databaseDataSet.PASSTABLEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PATIENT_INFORMATION.clinic_databaseDataSet.DATADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PATIENT_INFORMATION.clinic_databaseDataSet.GUESTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PATIENT_INFORMATION.clinic_databaseDataSet.PASSTABLERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PATIENT_INFORMATION.clinic_databaseDataSet.DATARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PATIENT_INFORMATION.clinic_databaseDataSet.GUESTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PATIENT_INFORMATION.clinic_databaseDataSet.PASSTABLERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PATIENT_INFORMATION.clinic_databaseDataSet.DATARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PATIENT_INFORMATION.clinic_databaseDataSet.GUESTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PATIENT_INFORMATION.clinic_databaseDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PATIENT_INFORMATION.clinic_databaseDataSetTableAdapters.PASSTABLETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PATIENT_INFORMATION.clinic_databaseDataSetTableAdapters.DATATableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PATIENT_INFORMATION.clinic_databaseDataSetTableAdapters.GUESTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PATIENT_INFORMATION.clinic_databaseDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(PATIENT_INFORMATION.clinic_databaseDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PATIENT_INFORMATION.clinic_databaseDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(PATIENT_INFORMATION.clinic_databaseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PATIENT_INFORMATION.clinic_databaseDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(PATIENT_INFORMATION.clinic_databaseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PATIENT_INFORMATION.clinic_databaseDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PATIENT_INFORMATION.clinic_databaseDataSetTableAdapters.TableAdapterManager.UpdateAll(PATIENT_INFORMATION.clinic_databaseDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PATIENT_INFORMATION.clinic_databaseDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PATIENT_INFORMATION.clinic_databaseDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PATIENT_INFORMATION.clinic_databaseDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
